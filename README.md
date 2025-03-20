@@ -22,7 +22,6 @@ This project implements a **Traffic Sign Detection** system using **YOLO** for o
 
 ## Files in the Repository
 - `best.pt`: Pre-trained YOLO model weights.
-- `kaggle-traffic-signs.ipynb`: Jupyter Notebook for training and evaluation.
 - `trafficdetection_images_ultra.py`: Script for traffic sign detection on images.
 - `trafficdetection_onnx.py`: ONNX model conversion and inference.
 - `trafficdetection_ultra.py`: Main script for real-time traffic sign detection.
