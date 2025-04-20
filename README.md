@@ -20,12 +20,7 @@ This project implements a **Traffic Sign Detection** system using **YOLO** for o
    pip install torch torchvision opencv-python numpy matplotlib
    ```
 
-## Files in the Repository
-- `best.pt`: Pre-trained YOLO model weights.
-- `trafficdetection_images_ultra.py`: Script for traffic sign detection on images.
-- `trafficdetection_onnx.py`: ONNX model conversion and inference.
-- `trafficdetection_ultra.py`: Main script for real-time traffic sign detection.
-- `trafficdetection_ultra_extra.py`: Additional functionalities for detection.
+
 
 ## Usage
 ### Run Detection on Images
